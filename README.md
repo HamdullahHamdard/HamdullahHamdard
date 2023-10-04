@@ -65,7 +65,7 @@
 <div align=center></div>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HamdullahHamdard&theme=react&show_icons=true&locale=en&layout=compact&border_radius=10&" alt="HamdullahHamdard" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=HamdullahHamdard&theme=react&show_icons=true&locale=en&border_radius=10" alt="HamdullahHamdard" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=HamdullahHamdard&theme=react&show_icons=true&locale=en&border_radius=10" alt="HamdullahHamdard" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HamdullahHamdard&theme=react&" alt="HamdullahHamdard" />
 

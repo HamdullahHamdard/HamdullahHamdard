@@ -16,7 +16,7 @@
 
 👨‍💻 All of my projects are available at [GitHub](https://github.com/HamdullahHamdard?tab=repositories)
 
-💬 Ask me about **Java, Dart, Laravel, Flutter ... or [Here](https://github.com/HamdullahHamdard/HamdullahHamdard/issues)**
+💬 Ask me about **Java, Dart, Laravel, Flutter ... or anything [Here](https://github.com/HamdullahHamdard/HamdullahHamdard/issues)**
 
 📫 How to reach me **[Here](mailto:hamdullahhamdardhelmandi@gmail.com)**
 

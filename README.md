@@ -18,7 +18,7 @@
 
 📫 How to reach me **[Here](mailto:hamdullahhamdardhelmandi@gmail.com)**
 
-📄 Know about my experiences at [Linkedin](www.linkedin.com/in/hamdullah-hamdard)
+📄 Know about my experiences at [Linkedin](https://www.linkedin.com/in/hamdullah-hamdard)
 
 ⚡ Fun fact **I think I am funny😂**
 

@@ -4,19 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Hamdullah+Hamdard!;" />
 </h1>
 
-<h3 align="center">A passionate full stack mobile developer from Afghanistan</h3>
+<h3 align="center">Passionate Full-Stack Mobile Developer | Based in Afghanistan | Crafting scalable apps with Flutter & modern tech</h3>
 
 <br/>
 
 <div align="center">
 
-🔭 I’m currently working on [Online Travel Agency Project](https://github.com/HamdullahHamdard/travel_agency_management_system)
-
-🌱 I’m currently learning **SpringBoot**
+🌱 I’m currently learning **AI**
 
 👨‍💻 All of my projects are available at [GitHub](https://github.com/HamdullahHamdard?tab=repositories)
 
-💬 Ask me about **Java, Dart, Laravel, Flutter ... or anything [Here](https://github.com/HamdullahHamdard/HamdullahHamdard/issues)**
+💬 Ask me about **Spring Boot · Laravel · Flutter · Next.js ... or any related technologies [I’m here to help!](https://github.com/HamdullahHamdard/HamdullahHamdard/issues)**
 
 📫 How to reach me **[Here](mailto:hamdullahhamdardhelmandi@gmail.com)**
 
